@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="5/20/2021 3:20:38 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="5CG9266BY4"
+  DTS:CreatorName="WINTRUST\SPatel5"
+  DTS:DTSID="{339C513F-1F74-415F-817B-C99E547FD478}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.132"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{D26FE1DE-D3DE-492A-AB42-83F90BA6A5F8}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
